@@ -1,6 +1,6 @@
 # CodeWars
 A repository for my codewars.com solutions.
 # The Idea
-A place to store solutions as I work through CodeWars learning to code. Quality of solutions will vary as knowledge improves. I aim to visit many of these again to refine.
+I am using this space to save my solutions to the coding challenges on CodeWars. The quality of these solutions may vary as I improve my coding skills. I intend to revisit and improve these solutions over time.
 ## Honors
 <a href="https://www.codewars.com/users/dashurry" target="_blank"><img src="https://www.codewars.com/users/dashurry/badges/large"></a>
