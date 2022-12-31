@@ -1,10 +1,10 @@
 
-String.prototype.toJadenCase is a function that converts a string to Jaden Case.
-Jaden Case is a style of writing where each word in a phrase is capitalized.
-@returns {string} a new string in Jaden Case
-@example
-"how are you doing?".toJadenCase();
-// returns "How Are You Doing?"
+String.prototype.toJadenCase is a function that converts a string to Jaden Case.<br>
+Jaden Case is a style of writing where each word in a phrase is capitalized.<br>
+@returns {string} a new string in Jaden Case<br>
+@example<br>
+"how are you doing?".toJadenCase();<br>
+// returns "How Are You Doing?"<br>
 
 ```
 String.prototype.toJadenCase = function () {
