@@ -18,4 +18,4 @@ This function takes an array of numbers and returns the sum of all of the positi
 
   return total;
 
-}```
+}
