@@ -16,6 +16,6 @@ function solution(str){
 }
 ```
 
-// The above code will take a string as a parameter and will reverse the order of the characters in the string and return the reversed string.
-// It's using the split() method to convert the string into an array of characters, then using the reverse() method to change the order of the elements in the array which will in turn change the order of the characters in the string and then using the join() method to combine the elements of the array back into a single string.
-// The final output will be the reversed version of the input string.
+The above code will take a string as a parameter and will reverse the order of the characters in the string and return the reversed string.<br>
+It's using the split() method to convert the string into an array of characters, then using the reverse() method to change the order of the elements in the array which will in turn change the order of the characters in the string and then using the join() method to combine the elements of the array back into a single string.<br>
+The final output will be the reversed version of the input string.
