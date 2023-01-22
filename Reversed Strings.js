@@ -1,5 +1,4 @@
 ```
-// This function takes in a string as its parameter
 function solution(str){
   // It first splits the string into an array of characters using the split method
   // This separates each character of the string into its own element in the array
