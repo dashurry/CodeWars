@@ -1,4 +1,5 @@
-```function solution(str){
+```
+function solution(str){
   // It first splits the string into an array of characters using the split method
   // This separates each character of the string into its own element in the array
   // The array is now ['h','e','l','l','o'] for the string 'hello'
@@ -12,7 +13,8 @@
   // This puts all the elements of the array back into a single string
   // The final string is now 'olleh' for the string 'hello'
   return array.join('');
-}```
+}
+```
 
 // The above code will take a string as a parameter and will reverse the order of the characters in the string and return the reversed string.
 // It's using the split() method to convert the string into an array of characters, then using the reverse() method to change the order of the elements in the array which will in turn change the order of the characters in the string and then using the join() method to combine the elements of the array back into a single string.
